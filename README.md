@@ -19,9 +19,9 @@ Egresado de Ingeniería de Sistemas de la Universidad Nacional de Cajamarca, Per
 | **API de mantenimiento de vehículos** | Proyecto grupal con Java 25, Spring Boot 3.5.6, MySQL, JWT y Apache Jena. Gestión de clientes, vehículos, talleres y órdenes de trabajo. | [Código y documentación](https://github.com/Paull-Cas/api-mantenimiento-vehiculos) |
 | **Integración de usuarios y cursos** | Servicios de usuarios y cursos con Java, Spring Boot y OpenFeign. | [Código y documentación](https://github.com/Paull-Cas/curso-integracion) |
 | **AudiVare** | SaaS en producción para gestionar documentación contable, permisos y archivos. React, Next.js, NestJS y PostgreSQL. | [Código frontend y backend](https://github.com/Paull-Cas/audivare-codigo) |
-| **E.I.G.R. CONTRATISTAS S.R.L. — Sistema de procura de bienes** | Desarrollo de backend e interfaz web para organizar requerimientos y compras. Java, Spring Boot, Spring Cloud y React. | [Ficha del proyecto](https://github.com/Paull-Cas/proyectos) · Código privado |
+| **E.I.G.R. CONTRATISTAS S.R.L. — Sistema de procura de bienes** | Desarrollo de backend e interfaz web para organizar requerimientos y compras. Java, Spring Boot, Spring Cloud y React. | [Backend Java y Spring Boot](https://github.com/Paull-Cas/procura-bienes-backend) · [Frontend React y TypeScript](https://github.com/Paull-Cas/procura-bienes-frontend) |
 
-La copia pública de AudiVare y los proyectos académicos permiten revisar controladores, servicios, componentes, modelos de datos y organización del código. Los repositorios originales de producción se mantienen privados.
+Las copias públicas de AudiVare, del sistema de procura y los proyectos académicos permiten revisar controladores, servicios, componentes, modelos de datos y organización del código. Los repositorios originales de producción se mantienen privados.
 
 ## Contacto
 
